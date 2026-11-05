@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nome": "Camiseta Essencial", "categoria": "Camisetas", "preco": 59.9, "tamanho": "M", "cor": "Azul-claro"},
+    {"id": 2, "nome": "Calça Aurora", "categoria": "Calças", "preco": 129.9, "tamanho": "38", "cor": "Jeans"},
+    {"id": 3, "nome": "Vestido Brisa", "categoria": "Vestidos", "preco": 159.9, "tamanho": "P", "cor": "Off-white"}
+]
